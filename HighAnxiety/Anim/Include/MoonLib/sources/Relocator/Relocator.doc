@@ -1,0 +1,42 @@
+RELOCATOR V2.0  total recoded and enhanced version of RELOCATOR V1
+          V2.4  final version for drugstore
+          V2.5  recoded (now pc-relative code)
+                source new documented
+          V2.6  update-each hunk set to an 8-byte aligned address
+                bugfix- V2.5 failed if more than 1 hunk was set to publicpmem
+
+
+
+
+ -->a0 address of reloc file
+ -->a1 address of chipmem
+ -->a2 address of fastmem
+ -->d0 fillpattern for bss-hunks
+ <--d0 0.l if ok, -1.l if error
+
+ Relocator_FillBSS=0 --> don't init BSS-memory  !default
+ Relocator_FillBSS=1 --> fill BSS-memory with fillpattern (d0)
+ Note: Relocator_FillBSS must not exist
+
+Support:
+  Hunk code (chip/fast/public)
+  Hunk data (chip/fast/public)
+  Hunk bss (chip/fast/public)
+  Hunk reloc 32
+
+Usage:
+	   lea	program,a0	;adress of reloc-file
+	   lea	chip,a1		;free chipmemory
+	   lea	fast,a2		;free fastmemory
+	   jsr	relocator
+	   tst	d0		;error ? (unknown hunk)
+	   bne	error
+	   jmp	chip or fast	;position of first code segment
+				; you have to know that
+
+  its your turn to make sure that both memoryblocks (chip/fast)
+  are big enough!
+  chip hunk will be relocated to address in a1
+  fast and public hunks will be relocated to address in a2
+  if you want to force all to chipmem, set a2 to zero: sub.l	a2,a2
+  
