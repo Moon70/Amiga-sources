@@ -32,7 +32,7 @@ The source contains the Prorunner V2.0 source by Cosmos/Sanity.
 
 ## Pulstar
 
-A Dentro released by Abyss at [The Party 5](https://en.wikipedia.org/wiki/The_Party_(demoparty) "Wikipedia") in Fredericia/Denmark.
+A Dentro released by Abyss in 1995 at [The Party 5](https://en.wikipedia.org/wiki/The_Party_(demoparty) "Wikipedia") in Fredericia/Denmark.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BQQ781ALWNI)
 
@@ -79,7 +79,23 @@ The code also contains (at least) two bugs, unknown at the time of release:
 + A bug in the trackdisc loader, which causes some kind of looping when using low quality or worn discs.
 + When i was creating a HD-Version, i noticed that there must be another bug in the vector graphics code, leading to a system crash when exiting the musicdisc and returning to the operating system. Doesn´t occur when booting from disc, since there´s no exit. Because that was about 1 year after release, i decided not to spend time to fix that.
 
-[Download disc1](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-MusicForTheLostA.adf)
-[Download disc2](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-MusicForTheLostB.adf)
+[Disc1](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-MusicForTheLostA.adf)
+[Disc2](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-MusicForTheLostB.adf)
 
+---
+
+## Diznee Land
+
+Combination of 10 great chiptunes and a micro-discmag, mostly advertisments.
+
+Issue 1-8 released from april 1994 to november 1995.
+
+[Issue1](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-DizneeLand1)
+[Issue2](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-DizneeLand2)
+[Issue3](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-DizneeLand3)
+[Issue4](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-DizneeLand4)
+[Issue5](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-DizneeLand5)
+[Issue6](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-DizneeLand6)
+[Issue7](https://files.scene.org/view/parties/1995/sih95/misc/sih-dizn.lha)
+[Issue8](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-DizneeLand8)
 
