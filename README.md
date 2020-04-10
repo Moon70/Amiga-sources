@@ -6,17 +6,7 @@ Language: Motorola 68k Assembler
 
 Assembler: ASM-One
 
-I´d like to say '**thank you**' to everybody who´s preserving Demoscene productions by uploading and maintaining great sites like
-
-[Aminet](http://aminet.net/)
-
-[Pouet](https://www.pouet.net/)
-
-[Demozoo](https://demozoo.org)
-
-[Kestra Bitworld](http://janeway.exotica.org.uk)
-
-and to those who create videos for YouTube.
+I´d like to say '**thank you**' to everybody who´s preserving Demoscene productions by uploading and maintaining various great sites (don´t want to mention some, so that i can´t forget the others) and to those who create videos for YouTube.
 
 ---
 
@@ -98,4 +88,13 @@ Issue 1-8 released from april 1994 to november 1995.
 [Issue6](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-DizneeLand6)
 [Issue7](https://files.scene.org/view/parties/1995/sih95/misc/sih-dizn.lha)
 [Issue8](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-DizneeLand8)
+
+---
+
+## Massive BBStro
+
+A very small nameless BBStro made for my friends in Massive, can´t remember when it was done, some time between 1996 and 1997 i guess, who cares.
+
+[Download binary](http://ftp.amigascne.org/pub/amiga/Groups/M/Massive/Massive-DisasterAreaBBS)
+
 
