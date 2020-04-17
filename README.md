@@ -121,27 +121,27 @@ When booting an Amiga from floppy disc, the bootblock (sector 0-1) will be loade
 
 #### Starscroller
 
-![](Bootblocks\StarScroller\StarScroller.gif)
+![](https://raw.githubusercontent.com/Moon70/Amiga-sources/master/Bootblocks/StarScroller/Starscroller.gif)
 
 Simple scroller with some background stars. Looked even oldschool at time of creation, was just curious if i can squeeze that into a bootblock. April 1992
 
 #### Zoomscroller
 
-![](Bootblocks\ZoomScroller\ZoomScroller.gif)
+![](https://raw.githubusercontent.com/Moon70/Amiga-sources/master/Bootblocks/ZoomScroller/Zoomscroller.gif)
 
 #### Plasma
 
-![](Bootblocks\Plasma\Plasma.png)
+![](https://raw.githubusercontent.com/Moon70/Amiga-sources/master/Bootblocks/Plasma/Plasma.png)
 
 #### Dottunnel
 
-![](Bootblocks\DotTunnel\DotTunnel0.png) ![](Bootblocks\DotTunnel\DotTunnel1.png)
+![](https://raw.githubusercontent.com/Moon70/Amiga-sources/master/Bootblocks/DotTunnel/Dottunnel0.png) ![](https://raw.githubusercontent.com/Moon70/Amiga-sources/master/Bootblocks/DotTunnel/Dottunnel1.png)
 
 A couple of shapes...
 
 ### Intel Outside
 
-![](Bootblocks\IntelOutside\IntelOutside.png)
+![](https://raw.githubusercontent.com/Moon70/Amiga-sources/master/Bootblocks/IntelOutside/IntelOutside.png)
 
 When Intel started their aggressive 'Intel Inside' campagne, someone came up with that 'intel outside' logo. I´ve seen this a couple of times in different releases...and the knew which bootblock i want to make next. One version for Abyss, one for K!nky.
 
