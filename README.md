@@ -2,6 +2,8 @@
 
 Here are some of the Amiga sources i´ve written in the past millenium, as a member of the [Demoscene](https://en.wikipedia.org/wiki/Demoscene "Wikipedia") group Abyss.
 
+Putting all these old sources to Open Source is like letting my pants down, so please be nice :-)
+
 Language: Motorola 68k Assembler
 
 Assembler: ASM-One
@@ -97,4 +99,17 @@ A very small nameless BBStro made for my friends in Massive, can´t remember whe
 
 [Download binary](http://ftp.amigascne.org/pub/amiga/Groups/M/Massive/Massive-DisasterAreaBBS)
 
+---
+
+## Drugstore
+
+A two disc ocs trackmo released in January 1995.
+
+Each part can be assembled/started on its own, but you have to boot with old chipset.
+
+[Disc1](http://ftp.amigascne.org/pub/amiga/Groups/A/Abyss/Abyss-Drugstore_a.dms) 
+[Disc2](http://ftp.amigascne.org/pub/amiga/Groups/A/Abyss/Abyss-Drugstore_b.dms)
+[HD version](http://ftp.amigascne.org/pub/amiga/Groups/A/Abyss/Abyss-Drugstore.lha)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=0TFlA28P7O8)
 
