@@ -105,7 +105,7 @@ A very small nameless BBStro made for my friends in Massive, can´t remember whe
 
 A two disc ocs trackmo released in January 1995.
 
-Each part can be assembled/started on its own, but you have to boot with old chipset.
+Each part can be assembled/started on its own from AsmOne, but you have to boot with old chipset and allocate chipmem.
 
 [Disc1](http://ftp.amigascne.org/pub/amiga/Groups/A/Abyss/Abyss-Drugstore_a.dms) 
 [Disc2](http://ftp.amigascne.org/pub/amiga/Groups/A/Abyss/Abyss-Drugstore_b.dms)
@@ -113,3 +113,36 @@ Each part can be assembled/started on its own, but you have to boot with old chi
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0TFlA28P7O8)
 
+---
+
+## Bootblocks
+
+When booting an Amiga from floppy disc, the bootblock (sector 0-1) will be loaded and executed at once. Maximum size is 1k (1024 bytes). A nice place to play around and do the first steps in size coding.
+
+#### Starscroller
+
+![](Bootblocks\StarScroller\StarScroller.gif)
+
+Simple scroller with some background stars. Looked even oldschool at time of creation, was just curious if i can squeeze that into a bootblock. April 1992
+
+#### Zoomscroller
+
+![](Bootblocks\ZoomScroller\ZoomScroller.gif)
+
+#### Plasma
+
+![](Bootblocks\Plasma\Plasma.png)
+
+#### Dottunnel
+
+![](Bootblocks\DotTunnel\DotTunnel0.png) ![](Bootblocks\DotTunnel\DotTunnel1.png)
+
+A couple of shapes...
+
+### Intel Outside
+
+![](Bootblocks\IntelOutside\IntelOutside.png)
+
+When Intel started their aggressive 'Intel Inside' campagne, someone came up with that 'intel outside' logo. I´ve seen this a couple of times in different releases...and the knew which bootblock i want to make next. One version for Abyss, one for K!nky.
+
+Hm...this screenshot is bigger than the others...no that´s not done by mistake :-)
