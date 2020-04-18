@@ -131,11 +131,11 @@ Simple scroller with some background stars. Looked even oldschool at time of cre
 
 #### Plasma
 
-![](https://raw.githubusercontent.com/Moon70/Amiga-sources/master/Bootblocks/Plasma/Plasma.png)
+![](https://raw.githubusercontent.com/Moon70/Amiga-sources/master/Bootblocks/Plasma/Plasma.gif)
 
 #### Dottunnel
 
-![](https://raw.githubusercontent.com/Moon70/Amiga-sources/master/Bootblocks/DotTunnel/Dottunnel0.png) ![](https://raw.githubusercontent.com/Moon70/Amiga-sources/master/Bootblocks/DotTunnel/Dottunnel1.png)
+![](https://raw.githubusercontent.com/Moon70/Amiga-sources/master/Bootblocks/DotTunnel/Dottunnel0.gif) ![](https://raw.githubusercontent.com/Moon70/Amiga-sources/master/Bootblocks/DotTunnel/Dottunnel1.gif)
 
 A couple of shapes...
 
