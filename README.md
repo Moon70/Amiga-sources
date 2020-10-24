@@ -121,7 +121,8 @@ A very small nameless BBStro made for my friends in Massive, can´t remember whe
 
 A two disc ocs trackmo released in January 1995.
 
-Each part can be assembled/started on its own from AsmOne, but you have to boot with old chipset and allocate chipmem.
+Each part comes with it´s own source file, the binaries were put on disc just one after each other, and relocated by the loader to support dynamic memory management.
+Before launching a part from AsmOne, please boot with old chipset and allocate chipmem.
 
 [Demozoo](https://demozoo.org/productions/22896/)
 
@@ -180,4 +181,17 @@ Please note the sourcecode is **not** exactly issue one of Miracle. After releas
 [Demozoo](https://demozoo.org/productions/247321/)
 
 [Download Disc](ftp://ftp.amigascne.org/pub/amiga/Groups/I/Iris/Iris-Miracle01.dms)
+
+---
+
+## Gallows Megademo
+
+Created 1990/1991. Right after my local friend Duke and I did the very first basic steps in assembly on C64, Duke moved without warning :-) to Amiga, and changed from coder to both musician and graphician. I followed as soon as i could afford an Amiga, too.
+Together with Rip, Ice Cube and Nuke, who all lived in Duke´s neighbourhood, we formed 'The Gallows'. Being very impressed of the RSI Megademo, soon the idea of an own Megademo was born.
+Here are the four parts i´ve contributed (containing the NoisetrackerV1.0 replayroutine by Mahoney & Kaktus), Rip did the trackloader and the remaining parts.
+Both mine and Rip´s sources were written by absolutely beginners who had great fun exploring the fantastic Amiga hardware. When i watch the demo every couple of years, it reminds me of youth and friendship, and fellow A500 of course :-)
+
+[Demozoo](https://demozoo.org/productions/219603/)
+
+[Download Disc](ftp://ftp.amigascne.org/pub/amiga/Groups/G/Gallows/GALLOWS-megademo.dms)
 
