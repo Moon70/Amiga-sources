@@ -180,7 +180,7 @@ Please note the sourcecode is **not** exactly issue one of Miracle. After releas
 
 [Demozoo](https://demozoo.org/productions/247321/)
 
-[Download Disc](ftp://ftp.amigascne.org/pub/amiga/Groups/I/Iris/Iris-Miracle01.dms)
+[Download Disc](http://ftp.amigascne.org/pub/amiga/Groups/I/Iris/Iris-Miracle01.dms)
 
 ---
 
@@ -193,7 +193,7 @@ Both mine and Rip´s sources were written by absolutely beginners who had great 
 
 [Demozoo](https://demozoo.org/productions/219603/)
 
-[Download Disc](ftp://ftp.amigascne.org/pub/amiga/Groups/G/Gallows/GALLOWS-megademo.dms)
+[Download Disc](http://ftp.amigascne.org/pub/amiga/Groups/G/Gallows/GALLOWS-megademo.dms)
 
 ---
 
