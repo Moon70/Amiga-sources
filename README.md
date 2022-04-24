@@ -4,11 +4,11 @@ Here are some of the Amiga sources i´ve written in the past millenium, as a mem
 
 Putting all these old sources to Open Source is like letting my pants down, so please be nice :-)
 
-Language: Motorola 68k Assembler
+Language: Motorola 68k assembly
 
 Assembler: ASM-One
 
-I´d like to say '**thank you**' to everybody who´s preserving Demoscene productions by uploading and maintaining various great sites (don´t want to mention some, so that i can´t forget the others) and to those who create videos for YouTube.
+I´d like to say '**thank you**' to everybody who´s preserving Demoscene productions by uploading and maintaining various great sites as well as to those who create videos for YouTube.
 
 ---
 
@@ -18,7 +18,9 @@ The source contains the Prorunner V2.0 source by Cosmos/Sanity.
 
 [Demozoo](https://demozoo.org/productions/289/)
 
-[Watch on YouTube](https://www.youtube.com/watch?v=u49LqWm34ts)
+[Pouet](https://www.pouet.net/prod.php?which=26680)
+
+[YouTube](https://www.youtube.com/watch?v=u49LqWm34ts)
 
 [Download binary](http://ftp.amigascne.org/pub/amiga/Groups/A/Abyss/ABYSS-Curious)
 
@@ -30,7 +32,9 @@ A Dentro released by Abyss in 1995 at [The Party 5](https://en.wikipedia.org/wik
 
 [Demozoo](https://demozoo.org/productions/7635/)
 
-[Watch on YouTube](https://www.youtube.com/watch?v=BQQ781ALWNI)
+[Pouet](https://www.pouet.net/prod.php?which=4751)
+
+[YouTube](https://www.youtube.com/watch?v=BQQ781ALWNI)
 
 [Download binary](http://aminet.net/demo/aga/ays-puls.lha)
 
@@ -42,6 +46,8 @@ A Musicdisc with 3 great tunes by Neurodancer, released in summer 1995.
 
 [Demozoo](https://demozoo.org/productions/159675/)
 
+[Pouet](https://www.pouet.net/prod.php?which=4758)
+
 [Download disc](https://files.scene.org/view/demos/groups/abyss/ays-ora8.dms)
 
 ---
@@ -52,6 +58,8 @@ A 4k Intro released by Abyss in April 1997 at the Mekka & Symposium Demoparty in
 
 [Demozoo](https://demozoo.org/productions/18884/)
 
+[Pouet](https://www.pouet.net/prod.php?which=5886)
+
 [Download binary](https://files.scene.org/view/parties/1997/mekka97/amiga/in4k/abyss.zip)
 
 ---
@@ -60,11 +68,13 @@ A 4k Intro released by Abyss in April 1997 at the Mekka & Symposium Demoparty in
 
 Demo released by Abyss in summer 1995 at [Assembly 1995](https://en.wikipedia.org/wiki/Assembly_(demoparty))  in Helsinki/Finland.
 
-Dexter is the main coder of this demo. I don´t have his sources, so here are only the parts i´ve contributed.           I remember Dexter and me putting all together at the party, that was great :-)
+Dexter is the main coder of this demo. I don´t have his sources, so here are only the parts I´ve contributed.           I remember Dexter and me putting all together at the party, that was great :-)
 
 [Demozoo](https://demozoo.org/productions/7477/)
 
-[Watch on YouTube](https://www.youtube.com/watch?v=Pt4Jv_tc_VA)
+[Pouet](https://www.pouet.net/prod.php?which=3410)
+
+[YouTube](https://www.youtube.com/watch?v=Pt4Jv_tc_VA)
 
 [Download binary](http://aminet.net/demo/ta95/a95-abys.lha)
 
@@ -83,6 +93,8 @@ The code also contains (at least) two bugs, unknown at the time of release:
 
 [Demozoo](https://demozoo.org/productions/203609/)
 
+[Pouet](https://www.pouet.net/prod.php?which=33387)
+
 [Disc1](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-MusicForTheLostA.adf)
 [Disc2](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-MusicForTheLostB.adf)
 
@@ -96,6 +108,17 @@ Issue 1-8 released from april 1994 to november 1995.
 
 [Demozoo](https://demozoo.org/groups/398/)
 
+Pouet:
+[Issue1](https://www.pouet.net/prod.php?which=3413)
+[Issue2](https://www.pouet.net/prod.php?which=3414)
+[Issue3](https://www.pouet.net/prod.php?which=13339)
+[Issue4](https://www.pouet.net/prod.php?which=13342)
+[Issue5](https://www.pouet.net/prod.php?which=13344)
+[Issue6](https://www.pouet.net/prod.php?which=13345)
+[Issue7](https://www.pouet.net/prod.php?which=5990)
+[Issue8](https://www.pouet.net/prod.php?which=13346)
+
+Download:
 [Issue1](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-DizneeLand1)
 [Issue2](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-DizneeLand2)
 [Issue3](https://files.scene.org/view/mirrors/amigascne/Groups/A/Abyss/Abyss-DizneeLand3)
@@ -111,7 +134,9 @@ Issue 1-8 released from april 1994 to november 1995.
 
 A very small nameless BBStro made for my friends in Massive, can´t remember when it was done, some time between 1996 and 1997 i guess, who cares.
 
-[Demozoo]()
+[Demozoo](https://demozoo.org/productions/250139/)
+
+[Pouet](https://www.pouet.net/prod.php?which=73025)
 
 [Download binary](http://ftp.amigascne.org/pub/amiga/Groups/M/Massive/Massive-DisasterAreaBBS)
 
@@ -126,11 +151,13 @@ Before launching a part from AsmOne, please boot with old chipset and allocate c
 
 [Demozoo](https://demozoo.org/productions/22896/)
 
+[Pouet](https://www.pouet.net/prod.php?which=4750)
+
 [Disc1](http://ftp.amigascne.org/pub/amiga/Groups/A/Abyss/Abyss-Drugstore_a.dms) 
 [Disc2](http://ftp.amigascne.org/pub/amiga/Groups/A/Abyss/Abyss-Drugstore_b.dms)
 [HD version](http://ftp.amigascne.org/pub/amiga/Groups/A/Abyss/Abyss-Drugstore.lha)
 
-[Watch on YouTube](https://www.youtube.com/watch?v=0TFlA28P7O8)
+[YouTube](https://www.youtube.com/watch?v=0TFlA28P7O8)
 
 ---
 
@@ -176,9 +203,11 @@ Hm...this screenshot is bigger than the others...no that´s not done by mistake 
 
 Miracle is an OCS diskmag by Iris.
 
-Please note the sourcecode is **not** exactly issue one of Miracle. After release i did some changes in case we do another issue, but we didn´t. We decided to focus on the AGA version (a total rewrite of the code). Too bad that was never finished. Anyway, i´m still happy that i was part of this project. Greetings to MJ, Darkhawk, Miko63, Notman and the rest of Iris :-)
+Please note the sourcecode is **not** exactly issue one of Miracle. After release I did some changes in case we do another issue, but we didn´t. We decided to focus on the AGA version (a total rewrite of the code). Too bad that was never finished. Anyway, I´m still happy that I was part of this project. Greetings to MJ, Darkhawk, Miko63, Notman and the rest of Iris :-)
 
 [Demozoo](https://demozoo.org/productions/247321/)
+
+[Pouet](https://www.pouet.net/prod.php?which=13797)
 
 [Download Disc](http://ftp.amigascne.org/pub/amiga/Groups/I/Iris/Iris-Miracle01.dms)
 
@@ -189,7 +218,7 @@ Please note the sourcecode is **not** exactly issue one of Miracle. After releas
 Created 1990/1991. Right after my local friend Duke and I did the very first basic steps in assembly on C64, Duke moved without warning :-) to Amiga, and changed from coder to both musician and graphician. I followed as soon as i could afford an Amiga, too.
 Together with Rip, Ice Cube and Nuke, who all lived in Duke´s neighbourhood, we formed 'The Gallows'. Being very impressed of the RSI Megademo, soon the idea of an own Megademo was born.
 Here are the four parts i´ve contributed (containing the NoisetrackerV1.0 replayroutine by Mahoney & Kaktus), Rip did the trackloader and the remaining parts.
-Both mine and Rip´s sources were written by absolutely beginners who had great fun exploring the fantastic Amiga hardware. When i watch the demo every couple of years, it reminds me of youth and friendship, and fellow A500 of course :-)
+Both mine and Rip´s sources were written by absolutely beginners who had great fun exploring the fantastic Amiga hardware. When I watch the demo every couple of years, it reminds me of youth and friendship, and fellow A500 of course :-)
 
 [Demozoo](https://demozoo.org/productions/219603/)
 
@@ -202,8 +231,8 @@ Both mine and Rip´s sources were written by absolutely beginners who had great 
 A dentro by The Gallows.
 Contains the NoisetrackerV1.0 replayroutine by Mahoney & Kaktus.
 It´s called 'Invaders' because the original plan was to put an Invaders-like shooter at the end.
-Both demo and game were created from April 1991 to April 1992. I had to do my military service in that time, too. In other words i had to waste 8 months of my life, i hated almost every single day.
-Meanwhile the group broke up, i learned that very late. That´s why i decided not to add the game to the demo, but to try to sell it. And after some rejections we finally did it :-) 
+Both demo and game were created from April 1991 to April 1992. I had to do my military service in that time, too. In other words i had to waste 8 months of my life, I hated almost every single day.
+Meanwhile the group broke up, i learned that very late. That´s why I decided not to add the game to the demo, but to try to sell it. And after some rejections we finally did it :-) 
 
 [Demozoo](https://demozoo.org/productions/278028/)
 
